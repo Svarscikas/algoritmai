@@ -1,0 +1,10 @@
+D:\Program Files\Course Project\Algo\algo\algo\bin\Debug\algo.exe.config
+D:\Program Files\Course Project\Algo\algo\algo\bin\Debug\algo.exe
+D:\Program Files\Course Project\Algo\algo\algo\bin\Debug\algo.pdb
+D:\Program Files\Course Project\Algo\algo\algo\obj\Debug\algo.csprojAssemblyReference.cache
+D:\Program Files\Course Project\Algo\algo\algo\obj\Debug\algo.Form1.resources
+D:\Program Files\Course Project\Algo\algo\algo\obj\Debug\algo.Properties.Resources.resources
+D:\Program Files\Course Project\Algo\algo\algo\obj\Debug\algo.csproj.GenerateResource.cache
+D:\Program Files\Course Project\Algo\algo\algo\obj\Debug\algo.csproj.CoreCompileInputs.cache
+D:\Program Files\Course Project\Algo\algo\algo\obj\Debug\algo.exe
+D:\Program Files\Course Project\Algo\algo\algo\obj\Debug\algo.pdb
